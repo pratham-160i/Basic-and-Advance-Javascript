@@ -18,7 +18,7 @@ console.log("Final settings: ", final);
 // Nested destructuring
 let student = {
   id: 101,
-  name: "Gokul",
+  name: "Pratham",
   grades: {
     math: 95,
     english: 88

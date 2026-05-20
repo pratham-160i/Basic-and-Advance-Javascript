@@ -1,9 +1,9 @@
 // Day 1 - Basics
 // Homework
 
-let myName = "Gokul";
-let age = 20;
-let city = "Kerala";
+let myName = "Pratham";
+let age = 23;
+let city = "Madhya Pradesh";
 
 console.log("My name is " + myName);
 console.log("My age is " + age);

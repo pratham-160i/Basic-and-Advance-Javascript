@@ -50,7 +50,7 @@ const greet = function(name) {
   return "Hello, " + name;
 };
 
-console.log(greet("Gokul"));
+console.log(greet("Pratham"));
 
 const addNum = (a, b) => a + b;
 console.log(addNum(3, 5));

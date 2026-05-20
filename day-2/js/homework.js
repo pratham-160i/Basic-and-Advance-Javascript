@@ -1,14 +1,14 @@
 // Day 2 - Variables
 // Homework
 
-const fullName = "   Gokulkrishna Vinod   ";
-const age = 20;
-const city = "Kerala";
+const fullName = "   Pratham Bankar   ";
+const age = 23;
+const city = "Madhya Pradesh";
 
 console.log("Full Name (trimmed): " + fullName.trim());
 console.log("Upper case: " + fullName.trim().toUpperCase());
 console.log("Length: " + fullName.trim().length);
-console.log("Includes 'Gokul': " + fullName.includes("Gokul"));
+console.log("Includes 'Pratham': " + fullName.includes("Pratham"));
 
 let price = 1000;
 let discount = 0.2;

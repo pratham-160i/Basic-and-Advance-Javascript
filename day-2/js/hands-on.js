@@ -52,7 +52,7 @@ console.log(true + true);
 console.log("" + false);   
 console.log(null + 1);
 
-const fullName = "   Gokulkrishna Vinod   ";
+const fullName = "   Pratham Bankar   ";
 
 const trimmed = fullName.trim();
 console.log(trimmed);
@@ -61,7 +61,7 @@ console.log(trimmed.toUpperCase());
 
 console.log(trimmed.length);
 
-console.log(trimmed.includes("Gokulkrishna"));
+console.log(trimmed.includes("Pratham"));
 
 const firstName = trimmed.slice(0, 12);
 console.log(firstName);

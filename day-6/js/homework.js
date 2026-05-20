@@ -14,7 +14,7 @@ function fullName(first, last) {
   return `${first} ${last}`;
 }
 
-console.log(fullName("Gokul", "Krishna"));
+console.log(fullName("Pratham", "Krishna"));
 
 function isAdult(age) {
   return age >= 18;
